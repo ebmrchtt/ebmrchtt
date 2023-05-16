@@ -1,4 +1,4 @@
-<img align="right" alt="Eber-Dobberman" src="https://cdn.discordapp.com/attachments/1073885596612821023/1089006295262179409/dobberman.jpg"/>
+
 
 ### Coé! Me chamo Eber! 💯
 - 👨‍💻 No momento focado em desenvolvimento Frontend.
